@@ -5,7 +5,7 @@ var icon = document.getElementById("icon");
   if(document.body.classList.contains("dark-mode")){
   icon.src = "images/sun.png";
   }else{
-  icon.src = "images/moon.png";
+  icon.src = "moon-solid.svg";
   }
   };
   const sign_in_btn = document.querySelector("#sign-in-btn");
