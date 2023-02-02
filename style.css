@@ -37,6 +37,16 @@ input{
 .classpic {
   width: 55%;
 }
+
+#error {
+  color: #b85151;
+  font-size: 16px;
+  font-weight: 600;
+}
+.hidden {
+  display: none;
+}
+
 .container{
     position: relative;
     width: 100%;
