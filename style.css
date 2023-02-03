@@ -16,6 +16,7 @@
 }
 body{
    background-color: var(--primary-color) !important;
+   transition: background-color 1.5s;
 }
 input{
   background-color:#f0f0f0 !important;
